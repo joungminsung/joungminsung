@@ -8,3 +8,4 @@
 > https://edu.donga.com/news/articleView.html?idxno=92956 <br>
 > https://edu.chosun.com/site/data/html_dir/2025/08/05/2025080580059.html <br>
 > https://news.ebs.co.kr/ebsnews/allView/60627919/N <br>
+> rernews.com/news/articleView.html?idxno=184154 <br>
