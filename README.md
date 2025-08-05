@@ -1,17 +1,9 @@
-<div style="width:100px; height:100px; background-color:red; float:right;">
-  daf
-</div>
-<!--
-**joungminsung/joungminsung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Achievements
+2024.5.29 교내 아이디어 해커톤 2등
+2024.7.16~7.18 2024 교내 해커톤 장려상
+2025.7.15~7.16 2025 교내 해커톤 대상
+2025.8.1~8.3 2025 SW미래채움 SW·AI 고교 챌린지 대상
+> https://www.lecturernews.com/news/articleView.html?idxno=184154
+> https://edu.donga.com/news/articleView.html?idxno=92956
+> https://edu.chosun.com/site/data/html_dir/2025/08/05/2025080580059.html
+> https://news.ebs.co.kr/ebsnews/allView/60627919/N
