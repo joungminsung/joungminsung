@@ -8,7 +8,10 @@
 > https://edu.donga.com/news/articleView.html?idxno=92956 <br>
 > https://edu.chosun.com/site/data/html_dir/2025/08/05/2025080580059.html <br>
 > https://news.ebs.co.kr/ebsnews/allView/60627919/N <br>
-> rernews.com/news/articleView.html?idxno=184154 <br>
+> https://rernews.com/news/articleView.html?idxno=184154 <br>
+
+2025. 09. 11 ~ 09.12 2025 ICT 창업가 캠프 본선 대회 금상(고등부 1등, 대구광역시교육감상)
+
 
 2025.10.29 2025 에듀테크 소프트랩 AI 해커톤 대회 최우수상(한림대학교 총장상) <br>
 
