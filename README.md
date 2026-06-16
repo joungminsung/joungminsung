@@ -1,6 +1,6 @@
 <div align="center">
 
-# Joungmin Sung
+# Joung Minsung
 
 **Technical Product Manager & Full-Stack Developer**  
 AI agents, multi-model orchestration, automation-first web products, and fast product execution.
