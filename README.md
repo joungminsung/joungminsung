@@ -15,7 +15,7 @@ AI agents, multi-model orchestration, automation-first web products, and fast pr
 ## About Me
 
 ```yaml
-name: Joungmin Sung
+name: Joung Minsung
 school: Daegu Software Meister High School
 role: Technical Product Manager & Full-Stack Developer
 focus: AI Agents, Automation, Full-Stack Web Products
