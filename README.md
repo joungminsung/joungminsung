@@ -101,6 +101,7 @@ Learning habit platform for rural youth in Gangwon-do.
 
 | Date | Award | Organization |
 |---|---|---|
+| 2026.10 | Daytona HackSprint Seoul 2026 2위 | AI Builders, Daytona |
 | 2026.06 | 제24회 ICT활용 창의성 경진대회 금상(1위) | 대구광역시교육감 |
 | 2025.10 | 에듀테크 소프트랩 AI 해커톤 최우수상(2위) | 한림대학교 총장 |
 | 2025.09 | ICT 창업가 캠프 본선 금상(1위) | 대구광역시교육감 |
