@@ -2,8 +2,7 @@
 
 # Joung Minsung
 
-**Technical Product Manager & Full-Stack Developer**  
-AI agents, multi-model orchestration, automation-first web products, and fast product execution.
+**AI Engineer & Full-Stack Developer**  
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joungminsung080830@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joungminsung)
@@ -102,12 +101,13 @@ Learning habit platform for rural youth in Gangwon-do.
 
 | Date | Award | Organization |
 |---|---|---|
-| 2025.10 | 에듀테크 소프트랩 AI 해커톤 최우수상 | 한림대학교 총장상 |
-| 2025.09 | ICT 창업가 캠프 본선 금상, 고등부 1등 | 대구광역시교육감상 |
-| 2025.08 | SW미래채움 SW·AI 고교 챌린지 대상 | 과학기술정보통신부 장관상 |
-| 2025.07 | 교내 해커톤 대상 | 대구소프트웨어마이스터고 교장상 |
-| 2024.07 | 교내 해커톤 우수상 | 대구소프트웨어마이스터고 교장상 |
-| 2024.05 | 교내 아이디어톤 2위 | 대구소프트웨어마이스터고 |
+| 2026.06 | 제24회 ICT활용 창의성 경진대회 금상(1위) | 대구광역시교육감 |
+| 2025.10 | 에듀테크 소프트랩 AI 해커톤 최우수상(2위) | 한림대학교 총장 |
+| 2025.09 | ICT 창업가 캠프 본선 금상(1위) | 대구광역시교육감 |
+| 2025.08 | SW미래채움 SW·AI 고교 챌린지 대상(1위) | 과학기술정보통신부 장관 |
+| 2025.07 | 교내 해커톤 대상(1위) | 대구소프트웨어마이스터고 교장 |
+| 2024.07 | 교내 해커톤 우수상(3위) | 대구소프트웨어마이스터고 교장 |
+| 2024.05 | 교내 아이디어톤 최우수상(2위) | 대구소프트웨어마이스터고 |
 
 ### Certifications
 
